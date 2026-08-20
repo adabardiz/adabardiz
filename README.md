@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**adabardiz/adabardiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ada, a 15-year-old aspiring software engineer and a creator based in Istanbul, Türkiye.
 
-Here are some ideas to get you started:
+I mostly work on machine learning projects such as my longest ongoing project -- S.I.G.N.A.L (Sign Interpretation & Gesture Network Algorithm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also occasionally design things in 3D -- for example: to make my life easier, for various challenges (bakebuild etc.) and for hackclub.
+_______________________________________________________________________________________________________________________________________________
+
+## Tools & Tech
+
+* Python, Javascript, C, ROOT 
+* VS Code, PyCharm, Terminal
+* OnLeaf, MATLAB, Slack
+
+_______________________________________________________________________________________________________________________________________________
+
+## A bit about me
+* 🐶🐴I have a dog (Laika) & a horse (Diarano)
+* ☕️🧂I like my coffee black & I love salt
+* 🎬 My favorite movie is Dead Poets Society
+* 🧱 I like building stuff out of cardboard or other lo-fi materials.
+* 🔭 I'm interested in particle physics & space exploration
+
