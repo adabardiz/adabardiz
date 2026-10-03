@@ -19,7 +19,7 @@ ________________________________________________________________________________
 ## A bit about me
 * 🐶🐴I have a dog (Laika) & a horse (Diarano)
 * ☕️🧂I like my coffee black & I love salt
-* 🎬 My favorite movie is Dead Poets Society
+* 🎬 My favorite movie is The Hangover
 * 🧱 I like building stuff out of cardboard or other lo-fi materials.
 * 🔭 I'm interested in particle physics & space exploration
 
