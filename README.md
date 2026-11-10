@@ -7,7 +7,7 @@ I mostly work on machine learning projects such as my longest ongoing project --
 I also occasionally design things in 3D -- for example: things to make my life easier, for various challenges (bakebuild etc.) and for hackclub.
 _______________________________________________________________________________________________________________________________________________
 
-## Tools & Tech
+## Tools & Languages
 
 * Python, Javascript, C, ROOT 
 * VS Code, PyCharm, Terminal
